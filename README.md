@@ -20,7 +20,7 @@ The goal is to leave the system easier to reason about than it was before.
 
 This skill was inspired by Bryan Cantrill’s post [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/), which argues that laziness is a programming virtue when it leads to better abstractions, simpler systems, and lower long-term maintenance cost.
 
-It was also inspired by Theo Browne’s [video](https://youtu.be/iN_9aH3VuzU?si=K5DpI2tynf4YALAW), which discusses the post and how this idea applies to modern AI-assisted development.
+It was also inspired by Theo Browne’s [video](https://youtu.be/iN_9aH3VuzU), which discusses the post and how this idea applies to modern AI-assisted development.
 
 ## Install
 
