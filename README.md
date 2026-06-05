@@ -30,20 +30,6 @@ Using the Vercel Skills CLI:
 npx skills add omouta/virtuous-laziness
 ```
 
-## Why
-
-LLMs are very good at generating more: more files, more code, more helpers, more abstractions.
-
-Good engineering often requires the opposite:
-
-* smaller changes
-* simpler systems
-* fewer moving parts
-* clearer tradeoffs
-* less future maintenance
-
-This skill helps agents choose the smallest durable change that solves the real problem.
-
 ## What it does
 
 The skill guides an agent to:
